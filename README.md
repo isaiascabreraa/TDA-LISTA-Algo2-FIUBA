@@ -1,4 +1,4 @@
-# TDA-Lista Algo2 FIUBA
+# TDA-Lista
 
 LISTA SIMPLEMENTE ENLAZADA Y AMIGOS
 Se pide implementar una Lista utilizando nodos simplemente enlazados. Para ello se brindan las firmas de las funciones públicas a implementar y se deja a criterio del alumno la creación de las funciones privadas del TDA para el correcto funcionamiento de la Lista cumpliendo con las buenas prácticas de programación. Adicionalmente se pide la creación de un iterador interno y uno externo para la lista, como así también REUTILIZAR la implementación de lista simplemente enlazada para implementar los TDAS Pila y Cola.
